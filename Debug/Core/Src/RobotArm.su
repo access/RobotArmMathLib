@@ -1,0 +1,5 @@
+RobotArm.cpp:3:6:void InitRobotArm()	8	static
+RobotArm.cpp:17:8:void CLed::off()	16	static
+RobotArm.cpp:18:8:void CLed::toggle()	16	static
+RobotArm.cpp:24:1:CLed::CLed(GPIO_TypeDef*, uint16_t, uint16_t)	24	static
+RobotArm.cpp:33:6:void CLed::runToggle()	16	static
